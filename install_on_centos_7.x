@@ -6,3 +6,4 @@ Steps
    yum group install "Development Tools"
 2. Install kernel source and headers:
    yum install kernel-devel kernel-headers
+3. More to come later
